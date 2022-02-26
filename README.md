@@ -26,9 +26,11 @@ Getting Movie API Key:
 Go to the OMDB (open movie database ) website.
 Create an account as per the limit.
 You will receive your own API key.
+
 Type the source code in notepad and save it as (.js file). Create a folder with imported "node modules" ,"package.json" file , "package-lock.json" file.
 Copy the (.js source code file ) in the folder.
-Run the code in the command prompt , where the  folder is created with the command  "node file_name.js"
+Run the code in the command prompt , where the  folder is created with the command  "node file_name.js".
+
 After executing the source code, open the Telegram app in mobile/desktop.
 Click on your own bot link and after opening the created bot account , click start button.
 Type /movie movie_name
