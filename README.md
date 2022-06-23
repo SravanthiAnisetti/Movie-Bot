@@ -1,4 +1,4 @@
-# Movie-Bot
+# Movie-Telegram-Bot
 It's a bot related to movies.
 If user enters any movie name then ,they will get the information about the movie like movie rating,release date etc.
 
