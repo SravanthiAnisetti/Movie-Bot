@@ -12,6 +12,7 @@ Node-telegram-bot-api : Node.js module to interact with the official Telegram Bo
 
 Command to check if Node and npm are present in your system:
 npm --v
+
 node --version
 
 Next Step :
